@@ -1,0 +1,2830 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<!--			Pokemon			-->
+    <type name="PokemonCard_Box1">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="ContaminatedArea"/>
+    </type>
+    <type name="PokemonCard_Box2">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="ContaminatedArea"/>
+    </type>
+    <type name="PokemonCard_Box3">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="ContaminatedArea"/>
+    </type>
+    <type name="PokemonCard_Box4">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="ContaminatedArea"/>
+    </type>
+    <type name="PokemonCard_Box5">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="ContaminatedArea"/>
+    </type>
+    <type name="PokemonCard_Box1s">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonCard_Box2s">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonCard_Box3s">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonCard_Box4s">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonCard_Box5s">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonCard_Box1i">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonCard_Box2i">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonCard_Box3i">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonCard_Box4i">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonCard_Box5i">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonBooster001_1">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonBooster002_1">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonBooster003_1">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonBooster001_3">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="PokemonBooster002_3">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>   
+        <value name="Tier3"/>
+    </type>
+    <type name="PokemonBooster003_3">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>     
+        <value name="Tier3"/>
+    </type>
+    <type name="PokemonBooster001_5">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="ContaminatedArea"/>
+    </type>
+    <type name="PokemonBooster002_5">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="ContaminatedArea"/>
+    </type>
+    <type name="PokemonBooster003_5">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="ContaminatedArea"/>
+    </type>
+    <type name="PokemonEnergy1">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonEnergy2">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonEnergy3">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonEnergy4">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonEnergy5">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonEnergy6">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonEnergy7">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonEnergy8">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonTrainer1">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonTrainer2">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonTrainer3">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonTrainer4">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonTrainer5">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonTrainer6">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonTrainer7">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="PokemonTrainer8">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard001">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard002">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard003">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard004">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard005">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard006">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard007">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard008">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard009">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard010">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard011">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard012">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard013">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard014">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard015">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard016">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard017">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard018">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard019">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard020">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard021">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard022">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard023">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard024">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard025">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard026">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard027">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard028">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard029">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard030">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard031">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard032">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard033">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard034">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard035">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard036">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard037">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard038">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard039">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard040">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard041">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard042">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard043">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard044">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard045">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard046">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard047">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard048">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard049">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard050">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard051">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard052">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard053">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard054">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard055">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard056">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard057">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard058">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard059">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard060">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard061">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard062">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard063">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard064">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard065">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard066">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard067">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard068">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard069">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard070">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard071">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard072">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard073">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard074">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard075">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard076">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard077">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard078">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard079">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard080">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard081">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard082">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard083">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard084">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard085">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard086">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard087">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard088">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard089">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard090">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard091">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard092">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard093">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard094">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard095">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard096">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard097">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard098">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard099">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard100">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard101">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard102">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard103">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard104">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard105">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard106">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard107">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard108">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard109">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard110">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard111">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard112">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard113">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard114">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard115">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard116">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard117">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard118">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard119">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard120">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard121">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard122">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard123">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard124">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard125">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard126">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard127">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard128">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard129">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard130">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard131">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard132">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard133">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard134">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard135">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard136">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard137">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard138">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard139">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard140">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard141">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard142">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard143">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard144">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard145">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard146">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard147">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard148">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard149">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard150">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+    <type name="Pokemoncard151">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="collectable"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier2"/>
+        <value name="Tier1"/>
+    </type>
+</types>

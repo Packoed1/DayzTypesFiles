@@ -1,0 +1,4505 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<!-- Music Players -->
+	<type name="LDzRadio">
+		<lifetime>259200</lifetime>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+	</type>
+	<type name="LDzJukeBox">
+		<lifetime>259200</lifetime>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+	</type>
+	<type name="LDzRadio_iPodBig">
+		<lifetime>259200</lifetime>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+	</type>
+	<type name="LDzRadio_NanoIpod">
+		<lifetime>259200</lifetime>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+	</type>
+	<type name="LDzRadio_SonyAK70">
+		<lifetime>259200</lifetime>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+	</type>
+	<type name="LDzRadio_Sonymp3">
+		<lifetime>259200</lifetime>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+	</type>
+	<type name="LDzRadio_SonyNWZX">
+		<lifetime>259200</lifetime>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+	</type>
+	<type name="LDzRadio_SonyWalkMan">
+		<lifetime>259200</lifetime>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+	</type>
+	<!-- Tapes -->
+	<type name="LDzRadio_asslikethatremix_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_obladaet_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_shinedownmonsters_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_senorita_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_tborcyka_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_swingthemood_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_hometownglory_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_lorntimesink_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_blueberryyumyum_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_blurry_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_funkyshit_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_meetyomaker_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_ganjasmuggling_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_pantera_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_primovictoria_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_noglory_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_defenceofmoscow_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_hornsbryce_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_catchkadir_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_sepulturaterritory_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_thewarriorsong_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_tohellandback_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_stricken_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_partyandbs_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_everythingcounts_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_anguish_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_expressexzess_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_setgonzi_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_arrowsinthesky_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_thereaperblue_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_xacknpebahw_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_saildevildriver_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_saufenaufm_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_milliondreams_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="LDzRadio_kyotocodeblack_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_piscesjinjer_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_rollingpaint_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_nbarsacella_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_theoffering_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="LDzRadio_itsmylifebonjovi_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_pushitstaticx_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_mymothatoldme_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_droppedabombonme_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_blowthewhistle_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_gettinit_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_methodman_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_whatsthedifference_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_skynut_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_thinkyourspecial_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_bitchmix_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="LDzRadio_squarehammer_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_godzillaem_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_lookatthesedudes_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_cream_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_yeaiknow_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_shookonesmobbdeep_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_sawsoundtrack_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_sociopath_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_whereareyou_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_sigaretta_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_meinteil_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_lifeisgoodremix_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_lonewolf_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_cross_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_elektroniksupersonik_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="LDzRadio_dontstopthemusic_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_thesoundofe_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_unraveltokyo_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_theweekendedit_tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_questionsigetasked_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_shingeki_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_lostboy_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_sunrisenorahjones_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_powerofsound_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_likememeekz_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_crystalmeffin_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_hurtjohnnycash_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_johnnycashgods_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_sweat_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_radioactive_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_babelremix_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_getdown_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_damouthofmadness_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_chunkyformatb_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_komplett_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_diegebruder_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_apereallastdex_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_dedodo_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_sleepingmydayaway_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_werolldeep_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_screamaimfire_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_brushycorn_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_sabotagebeastie_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="LDzRadio_straightrhymez_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_highwaytohell_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_backinblack_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_everythingblack_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_shemakeitclap_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_tomjonesleave_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_starboyremix_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_stuart_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_demonsareagirls_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_armatastrigoi_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_twistedtransistor_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_thepride_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_alittlebitoff_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="LDzRadio_inismona_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_fashionweek_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_antagonist_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_youngestincharge_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_doabyprevail_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_jacqueesyou_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_tillitsgone_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_outlawshit_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_riskitall_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_igotbyburden_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="LDzRadio_hotremix_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_drowningpoolbodies_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_insidethefire_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_downwithsickness_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_lamarche_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_twilightofthunder_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_thunderstruckacdc_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_mothertoldme_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_voluspa_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_folktronicavioarr_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_weshallsailtogether_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_blackbetty_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_canciondelmariachi_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_allaroundtheworld_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_fastlane_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_calilove_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_soundofsilence_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_amerikazmostwanted_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_ambitionzazaridah_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_fallem_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_venomem_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_headlines_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_boshretkheir_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_rusmusic_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_whereowlsknowmyname_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_rockstar_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_congratulations_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="LDzRadio_godwasnever_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_dangermigo_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_badandboujee_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_nothingelsematters_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_thechicken_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_nobodysperfect_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_freedfromdesire_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_tonymontanafuture_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_weownitwiz_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_hardtochoose_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_futurefn_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_desperadorihanna_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_insaneinthebrain_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="LDzRadio_returnofthetres_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_putthreestripes_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_wardrunahelvegen_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_upchurch_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_wonderland_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_goodumsa_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_uraganufaceti_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_amluatcina_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_withdrawals_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_summertimeisgreat_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_lonelyshepherd_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_liveforever_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_sanduciorba_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_hettatanya_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_ramil_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_projectxremix_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_tetrismusik_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="LDzRadio_layemdown_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_nfoutcast_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_miyagi_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_whiskeyinthejar_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_turnthepage_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_pursuitofhappiness_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_beethovenken_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_somewhereonlyweknow_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_houseofthesun_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_cantfeelmyface_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_triptovalhalla_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_waitingfor_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_slimchers_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_greenriver_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_cheapthrills_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_cairokeeya_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_yourbetrayal_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_bonethugistried_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_bizpetrunko_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_danceofthedead_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_bangbang_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_demuseo_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_americahorse_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="LDzRadio_clockwise_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_billiejean_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_thesmithsask_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_wanabesedated_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_bullsonparade_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_endoftheworld_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_survivaloffit_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_perfectday_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_limprollin_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_moveyourfeet_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_eddierise_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_lostthatlovin_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_toolfortysix_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_thewolfsong_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_purplerain_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_popsmokedior_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_cowboysfromhell_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_mostbeautiful_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_clownmike_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_bfgdivision_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_unarosa_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_chemtrailsover_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_hookwith_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_untraveledroad_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_thisgonnahurt_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_easygoremix_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_enaftenved_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_theonlything_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="LDzRadio_turndownforwhat_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_darkepicmusic_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_charlesboum_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_ragnboneman_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_wirhamnoch_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_niewieder_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_aufgute_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_blinksmallthings_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_generalscorner_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_dontworryaboutme_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_fatherofthewolf_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_amonvikings_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_housebuilding_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_ingoodcompany_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_changetheworld_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_ringoffire_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_walkure_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_gotlove_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_actafool_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_goode_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_highman_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_jailhouserock_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_cityofangels_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_footsteps_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_roosters_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_theraven_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_eyeinsky_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_wherethehoodat_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_stillfly_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_heyyaoutkast_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_gimmeshelter_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_rosesremixed_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_touchableremble_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_hypnotizedremix_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_whereismymind_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_tangodelfuego_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_sleepwalker_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_digupherbones_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_nuclear_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_astronautintheocean_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="LDzRadio_thisisthenewshit_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_loseyourhead_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_steadymobbin_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_drankanddrugs_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_combustioninferno_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_ifeelgood_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_natural_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_whatyouwaitingfor_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_hittheroad_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_popularmonster_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_eastwood_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_explodemix_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_levitating_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_smokeonwater_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_outoftouch_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_fortunateson_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_jamaica_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_bringrum_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_brighterday_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_meshugah_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_xanny_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_kickoff_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_zombieoffical_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_chopsuey_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_ganja_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_killingmachine_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_walkthisway_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_sobertool_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_remedy_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_carryonson_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_racks_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_chilloutcali_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_byob_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_linkinpark_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_sophisticated_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_meanttobe_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_rockyou_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_wannabegangster_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_partymaker_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_withoutme_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_watchingme_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_campfiresong_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_brightsideoflife_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_whenimgone_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_tillicollapse_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_watchingmeog_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_musicandme_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_nobodydoes_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_lovesosa_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_safetosay_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_hatebeinsober_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_ambitions_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_superfreak_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_wizzeryday_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_regulaters_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_winnertakes_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="LDzRadio_wiznosleep_Tape">
+		<nominal>1</nominal>
+		<lifetime>691200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+</types>

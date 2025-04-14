@@ -1,0 +1,2925 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="GGG_577_Revolver">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_MK14">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_Henry_Singleshot">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="Mag_GGG_MK14_20Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_Spas12">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="GGG_FNEvolys">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="Mag_GGG_FNEvolys_200Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_Arbiter_450">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Arbiter_12ga">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Arbiter_450_Mag">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Arbiter_450_10Mag">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Arbiter_12ga_Mag">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_700Nitro">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_HCAR_Black">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_HCAR_Desert">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_HCAR_Magazine_10rnd">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_HCAR_Magazine_30rnd">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Ruger1022_Black">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="GGG_Ruger1022_Camo">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="GGG_MCXSpear_Black">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_MCXSpear_Tan">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_SMG2001">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_SMG2002">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Mag_Ruger1022_40Rnd">
+		<nominal>3</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="GGG_MCXSpear_Bttstck">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_MCXSpear_Bttstck_Tan">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_MCXSpear_25rnd_Black">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_MCXSpear_25rnd_Tan">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_SMG2000_Magazine">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_UZI_9">
+		<nominal>5</nominal>
+		<lifetime>28800</lifetime>
+		<restock>3600</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Police"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="GGG_UZI_12">
+		<nominal>5</nominal>
+		<lifetime>28800</lifetime>
+		<restock>3600</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Police"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="Mag_GGG_UZI_9_20Rnd">
+		<nominal>8</nominal>
+		<lifetime>28800</lifetime>
+		<restock>3600</restock>
+		<min>4</min>
+		<quantmin>5</quantmin>
+		<quantmax>50</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Police"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="Mag_GGG_UZI_12_8Rnd">
+		<nominal>8</nominal>
+		<lifetime>28800</lifetime>
+		<restock>3600</restock>
+		<min>4</min>
+		<quantmin>5</quantmin>
+		<quantmax>50</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Police"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="GGG_Tek9">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Police"/>
+		<value name="Tier1"/>
+	</type>
+	<type name="GGG_kek9">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Police"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="Mag_GGG_Tek9_22Rnd">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Police"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="GGG_K98">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>4</min>
+		<quantmin>0</quantmin>
+		<quantmax>80</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Farm"/>
+		<usage name="Village"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_K98_Meow">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>4</min>
+		<quantmin>0</quantmin>
+		<quantmax>80</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Farm"/>
+		<usage name="Village"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_K98Scope">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>10</quantmin>
+		<quantmax>40</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Farm"/>
+		<usage name="Village"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_Marlin1895">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>80</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Farm"/>
+		<usage name="Village"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_KS23">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Farm"/>
+		<usage name="Village"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_KS23K">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Farm"/>
+		<usage name="Village"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_Mag_KS23K_7Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Farm"/>
+		<usage name="Village"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_MG42">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_MG42_Mag">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_SigRaptor_Black">
+		<nominal>4</nominal>
+		<lifetime>0</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_SigRaptor_Mag_Black">
+		<nominal>8</nominal>
+		<lifetime>0</lifetime>
+		<restock>3600</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_SigRaptor_Tan">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_SigRaptor_Suppressor">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_ArbiterRevolver">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_L86">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_L86_Mag">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_SnipeX">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Mag_SnipeX_5Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Arbiter_20mm">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Cricket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<usage name="ContaminatedArea"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Cricket_Magazine">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<usage name="ContaminatedArea"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_BAR">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<usage name="ContaminatedArea"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_BAR_Magazine_10rnd">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<usage name="ContaminatedArea"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_BAR_Magazine_30rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<usage name="ContaminatedArea"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_DP28">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_DP28_Mag47Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Glock18c">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Police"/>
+	</type>
+	<type name="GGG_GlockDrum_Magazine">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Police"/>
+	</type>
+	<type name="GGG_M1014">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Police"/>
+		<usage name="Farm"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="GGG_M1014_Magazine">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Police"/>
+		<usage name="Farm"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="GGG_MGV">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Police"/>
+		<usage name="Farm"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="GGG_MGV_Mag">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Police"/>
+		<usage name="Farm"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="GGG_RexZero">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Police"/>
+		<usage name="Farm"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="GGG_RexZero_Magazine">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Police"/>
+		<usage name="Farm"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="GGG_SR47">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="ContaminatedArea"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_TacSKS">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_TacSKS_Mag">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="GGG_Scorpion_EvoLved">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_UnicornEvo_Mag_30Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Scorpion_EvoLved_Hndgurd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_MG338">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_MG338_Magazine">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Stinger">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_Stinger_Magazine">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Stinger_Compensator">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Stinger_Bttstck">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_416Rigby">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Farm"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="GGG_M1Garand_3006">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Farm"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="GGG_M1Garand_416">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Farm"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="GGG_XM250">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_XM250_Sig">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_XM250_Tan">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_XM250_Magazine">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_TREXS">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_TREXS_Mag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_700NERFD">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_700NERFD_Mag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_AK50">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_AK50_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_Mag_AK50_10Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_RM277">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="GGG_RM277_Black">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="GGG_RM277_Suppressor">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="GGG_RM277_Suppressor_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="GGG_RM277_Mag">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO01">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO02">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO03">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO04">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO05">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO06">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO07">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO08">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO09">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO10">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO11">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO12">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO13">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO14">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO15">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO16">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO17">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO18">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO19">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO20">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO21">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO22">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO23">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO24">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO25">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO26">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO27">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO28">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO29">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO30">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO31">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO32">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110_GGGCAMO33">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_M110Mag_90Rnd">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_RagingBull">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_PoliteIronSights">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_Sifi_Revolver_blue">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_Sifi_Revolver_blue">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_Sifi_Revolver_camo">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_Sifi_Revolver_green">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_Sifi_Revolver_purple">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_LVOA">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_LVOA_Magazine">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_420LMG">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_420LMG_Magazine">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_AMERICAN180">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_AMERICAN180_Magazine">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_AMERICAN180_short">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_AMERICAN180_short_Magazine">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_SnipeX_Trex">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<!-- Loooooss Ammo! -->
+	<type name="Ammo_577">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Ammo_50AE">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Ammo_ForeBore">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_Ammo_50cal">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Ammo_50calTracer">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Ammo_338">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Ammo_338Tracer">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Ammo_65Creed">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Ammo_454Casull">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Ammo_30mmAPI">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Ammo_277Fury">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Ammo_792_57">
+		<nominal>3</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>10</quantmin>
+		<quantmax>40</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<tag name="shelves"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+	</type>
+	<type name="GGG_Ammo_4570">
+		<nominal>3</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>10</quantmin>
+		<quantmax>40</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<tag name="shelves"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+	</type>
+	<type name="GGG_Ammo_Shrapnel25">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Ammo_Barrikada">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Ammo_20mm">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_Ammo_416Rig">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Ammo_40mm_12ga">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Ammo_40mm_22lr">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Ammo_40mm_22lr_UNF">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+	</type>
+	<type name="GGG_Ammo_420Smokey">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_Ammo_145_114">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_Ammo_450Bush">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Ammo_700Nitro">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_Ammo_3006">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="Ammo_12_7_55">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo" />
+		<usage name="Military" />
+		<value name="Tier4" />
+		<tag name="shelves" />
+	</type>
+	<type name="Ammo_300AAC">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo" />
+		<usage name="Military" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<tag name="shelves" />
+	</type>
+	<!-- Boxed Ammo! -->
+	<type name="GGG_AmmoBox_450Bush_20Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+	</type>
+	<type name="GGG_AmmoBox_700Nitro_10Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_AmmoBox_3006_20Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_AmmoBox_277Fury_20Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_AmmoBox_792_57_20Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>10</quantmin>
+		<quantmax>40</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<tag name="shelves"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+	</type>
+	<type name="GGG_AmmoBox_4570_20Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>10</quantmin>
+		<quantmax>40</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<tag name="shelves"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+	</type>
+	<type name="GGG_AmmoBox_Barrikada_10Rnd">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_AmmoBox_Shrapnel25_10Rnd">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_AmmoBox_20mm">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_AmmoBox_416Rig_20Rnd">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GGG_AmmoBox_420Smokey_25Rnd">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_AmmoBox_145_114_20Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_AmmoBox_30mmAPI_20Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_AmmoBox_454Casull_20Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_AmmoBox_65Creed_20Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_AmmoBox_338">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_AmmoBox_338Tracer">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_AmmoBox_50Cal_20Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_AmmoBox_50CalTracer_20Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_AmmoBox_50AE_30Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="GGG_AmmoBox_ForeBore_30Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="AmmoBox_12_7_55_20Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo" />
+		<usage name="Military" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<tag name="shelves" />
+	</type>
+	<type name="AmmoBox_300AAC_20Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo" />
+		<usage name="Military" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<tag name="shelves" />
+	</type>
+	<type name="Ammo_338LapuaMagnum">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo" />
+		<usage name="Military" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<tag name="shelves" />
+	</type>
+	<type name="AmmoBox_338LapuaMagnum_20Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo" />
+		<usage name="Military" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<tag name="shelves" />
+	</type>
+	<type name="Ammo_408CheyTac">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo" />
+		<usage name="Military" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<tag name="shelves" />
+	</type>
+	<type name="AmmoBox_408CheyTac_20Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo" />
+		<usage name="Military" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<tag name="shelves" />
+	</type>
+	<type name="Ammo_65Creedmore">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo" />
+		<usage name="Military" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<tag name="shelves" />
+	</type>
+	<type name="AmmoBox_65Creedmore_20Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo" />
+		<usage name="Military" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<tag name="shelves" />
+	</type>
+	<type name="Ammo_50Beowolf">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo" />
+		<usage name="Military" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<tag name="shelves" />
+	</type>
+	<type name="AmmoBox_50Beowolf_20Rnd">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="ammo" />
+		<usage name="Military" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<tag name="shelves" />
+	</type>
+</types>

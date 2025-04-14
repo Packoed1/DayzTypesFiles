@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="GB_Bitcoin_Mining_Rig_kit">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="ContaminatedArea"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier1"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GB_Bitcoin_Mining_Rig">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="ContaminatedArea"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier1"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GB_PSU">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="ContaminatedArea"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier1"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GB_FanBar">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="ContaminatedArea"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier1"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GB_HeatSync">
+		<nominal>6</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Farm"/>
+		<usage name="ContaminatedArea"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier1"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GB_Fan">
+		<nominal>6</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Farm"/>
+		<usage name="ContaminatedArea"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier1"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GB_GPU1080">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier1"/>
+	</type>
+	<type name="GB_GPU2000d">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier1"/>
+	</type>
+	<type name="GB_GPU1080">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Farm"/>
+		<usage name="ContaminatedArea"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier1"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GB_GPU2080TI">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Farm"/>
+		<usage name="ContaminatedArea"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier1"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GB_NvidiaProBlack">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Farm"/>
+		<usage name="ContaminatedArea"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier1"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GB_NvidiaProRed">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Farm"/>
+		<usage name="ContaminatedArea"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier1"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GB_NvidiaProWhite">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Farm"/>
+		<usage name="ContaminatedArea"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier1"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GB_RTX6900">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Farm"/>
+		<usage name="ContaminatedArea"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier1"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GB_GPU2080TI">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Farm"/>
+		<usage name="ContaminatedArea"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier1"/>
+		<value name="Unique"/>
+	</type>
+	<type name="GB_GPU3060TI">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="GB_GPU3080">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="GB_GPU4090">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="GB_GPUTITANRTX">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="GB_MSI_3080">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="GB_UnnamedGPU">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="GB_RTX6900">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="GB_Mystery_Box_USB">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="GB_Basic_USB_1">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="GB_Bitcoin">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="GB_GPUBOX">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="GB_Sky_Mining_Rig_Kit">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier1"/>
+	</type>
+	<type name="GB_Sky_Mining_Rig">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier1"/>
+	</type>
+    <type name="GB_Server_Rack_Kit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="GB_GPUBOX">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="GB_Antmining_Rig">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>14400</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>25</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+</types>
