@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--CARDS-->
+<types>
+	<type name="mmg_ca_card_stary">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="mmg_ca_card_novo">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="mmg_ca_card_severo">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="mmg_ca_card_cherno">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="mmg_ca_card_elektro">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<!--GUNS-->
+	<type name="mmg_ca_card_fnx45">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier1"/>
+	</type>
+	<type name="mmg_ca_card_mlock19">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier1"/>
+	</type>
+	<type name="mmg_ca_card_skg5">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="mmg_ca_card_usg45">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="mmg_ca_card_bk43">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="mmg_ca_card_blaze">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="mmg_ca_card_mosin">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="mmg_ca_card_savanna">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="mmg_ca_card_tundra">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="mmg_ca_card_akm">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="mmg_ca_card_aur">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="mmg_ca_card_m4">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="mmg_ca_card_lar">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="mmg_ca_card_deagle">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="mmg_ca_card_vsd">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="mmg_card_display">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="mmg_newspaper_one">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="mmg_floppy_disc_one">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="mmg_floppy_disc_two">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="mmg_floppy_disc_three">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="mmg_tactical_watch_black">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="mmg_tactical_watch_green">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="mmg_tactical_watch_tan">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+</types>
